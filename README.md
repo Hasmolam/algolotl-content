@@ -1,6 +1,6 @@
-# coding-game-content
+# algolotl-content
 
-Uygulamanın öğrenme yolu, üniteleri, dersleri ve soruları. Proje adı henüz seçilmedi, repo adı geçicidir.
+Algolotl'un öğrenme yolu, üniteleri, dersleri ve soruları. Algolotl, Python öğreten oyunlaştırılmış bir kodlama uygulaması.
 
 İlk sürüm Python öğretir ve 3-4 üniteden oluşur. Yeni bir dil, ünite, ders veya soru eklemek yalnızca bu repoya dosya eklemekle olur, uygulama ve API kodu değişmez.
 
@@ -30,41 +30,41 @@ python/
 
 Soru tipleri: `multiple_choice` (test), `fill_blank` (boşluk doldurma), `matching` (eşleştirme).
 
-Bu örnek yol göstermek içindir. Dosyaların kesin biçimini API reposundaki [`content.schema.json`](https://github.com/Hasmolam/coding-game-api) belirler. Burada elle ayrı bir şema yazılmaz, böylece iki kopya birbirinden ayrılmaz.
+Bu örnek yol göstermek içindir. Dosyaların kesin biçimini API reposundaki [`content.schema.json`](https://github.com/Hasmolam/algolotl-api) belirler. Burada elle ayrı bir şema yazılmaz, böylece iki kopya birbirinden ayrılmaz.
 
 ## Yol haritası
 
-İşler yukarıdan aşağıya sırayla ilerler. Her işin ayrıntısı, ne zaman bitmiş sayılacağı ve hangi işe bağlı olduğu kendi issue'sunda yazar. Güncel durumu [Issues](https://github.com/Hasmolam/coding-game-content/issues) ve [Milestones](https://github.com/Hasmolam/coding-game-content/milestones) sayfalarından takip edin.
+İşler yukarıdan aşağıya sırayla ilerler. Her işin ayrıntısı, ne zaman bitmiş sayılacağı ve hangi işe bağlı olduğu kendi issue'sunda yazar. Güncel durumu [Issues](https://github.com/Hasmolam/algolotl-content/issues) ve [Milestones](https://github.com/Hasmolam/algolotl-content/milestones) sayfalarından takip edin.
 
 ### 1 · Plan
 
 Müfredat ve yazım kuralları.
 
-- [#1 Python müfredat planı](https://github.com/Hasmolam/coding-game-content/issues/1)
-- [#2 Ders yazım kılavuzu](https://github.com/Hasmolam/coding-game-content/issues/2)
+- [#1 Python müfredat planı](https://github.com/Hasmolam/algolotl-content/issues/1)
+- [#2 Ders yazım kılavuzu](https://github.com/Hasmolam/algolotl-content/issues/2)
 
 ### 2 · Altyapı
 
 Otomatik kontrol ve uçtan uca deneme.
 
-- [#3 Dosya biçiminin otomatik kontrolü](https://github.com/Hasmolam/coding-game-content/issues/3)
-- [#4 Pilot ders ile uçtan uca deneme](https://github.com/Hasmolam/coding-game-content/issues/4)
+- [#3 Dosya biçiminin otomatik kontrolü](https://github.com/Hasmolam/algolotl-content/issues/3)
+- [#4 Pilot ders ile uçtan uca deneme](https://github.com/Hasmolam/algolotl-content/issues/4)
 
 ### 3 · Üniteler
 
 MVP içeriğinin yazılması.
 
-- [#5 Ünite 1 dersleri](https://github.com/Hasmolam/coding-game-content/issues/5)
-- [#6 Ünite 2 dersleri](https://github.com/Hasmolam/coding-game-content/issues/6)
-- [#7 Ünite 3 dersleri](https://github.com/Hasmolam/coding-game-content/issues/7)
-- [#8 Ünite 4 dersleri (zaman kalırsa)](https://github.com/Hasmolam/coding-game-content/issues/8)
+- [#5 Ünite 1 dersleri](https://github.com/Hasmolam/algolotl-content/issues/5)
+- [#6 Ünite 2 dersleri](https://github.com/Hasmolam/algolotl-content/issues/6)
+- [#7 Ünite 3 dersleri](https://github.com/Hasmolam/algolotl-content/issues/7)
+- [#8 Ünite 4 dersleri (zaman kalırsa)](https://github.com/Hasmolam/algolotl-content/issues/8)
 
 ### 4 · Son kontrol
 
 Mekanizma kontrolü ve son gözden geçirme.
 
-- [#9 Yeni dil ekleme mekanizmasının kontrolü](https://github.com/Hasmolam/coding-game-content/issues/9)
-- [#10 Telefonda son gözden geçirme turu](https://github.com/Hasmolam/coding-game-content/issues/10)
+- [#9 Yeni dil ekleme mekanizmasının kontrolü](https://github.com/Hasmolam/algolotl-content/issues/9)
+- [#10 Telefonda son gözden geçirme turu](https://github.com/Hasmolam/algolotl-content/issues/10)
 
 ## İçerik kuralları
 
